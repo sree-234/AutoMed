@@ -1,6 +1,6 @@
-# 🏥 AUTOMED - Autonomous Medical Delivery Robot
+# 🏥 AutoMed - Autonomous Medical Delivery Robot
 
-AUTOMED is an **autonomous indoor medical delivery robot** designed to improve operational efficiency in healthcare environments such as **hospitals, clinics, and pharmacies**. Built with advanced SLAM-based navigation, real-time obstacle avoidance, and secure payload handling, AUTOMED ensures **efficient, contactless, and secure delivery** of medical supplies.
+AutoMed is an **autonomous indoor medical delivery robot** designed to improve operational efficiency in healthcare environments such as **hospitals, clinics, and pharmacies**. Built with advanced SLAM-based navigation, real-time obstacle avoidance, and secure payload handling, AUTOMED ensures **efficient, contactless, and secure delivery** of medical supplies.
 
 ---
 
