@@ -6,7 +6,7 @@ AutoMed is an **autonomous indoor medical delivery robot** designed to improve o
 
 ## 🚀 Project Overview
 
-AUTOMED integrates **SLAM (Simultaneous Localization and Mapping)** using LiDAR and IMU, **A\\*** algorithm for path planning, and **sensor fusion via an Extended Kalman Filter (EKF)** to autonomously navigate and deliver within dynamic hospital environments. A **Flutter-based mobile application** allows intuitive control, manual override, real-time notifications, and secure user authentication.
+AutoMed integrates **SLAM (Simultaneous Localization and Mapping)** using LiDAR and IMU, **A\\*** algorithm for path planning, and **sensor fusion via an Extended Kalman Filter (EKF)** to autonomously navigate and deliver within dynamic hospital environments. A **Flutter-based mobile application** allows intuitive control, manual override, real-time notifications, and secure user authentication.
 
 ---
 
